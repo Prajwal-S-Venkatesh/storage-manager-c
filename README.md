@@ -1,22 +1,4 @@
-# Assignment 1 - Storage Manager
-
-Course: CS525 Advance Database Organization - 2023 Summer
-
-## Group Members
-
-```
-Name: Prajwal Somendyapanahalli Venkateshmurthy
-CWID: A20524002
-Hawk Email: psomendyapanahallive@hawk.iit.edu
-
-Name: Komal Bhavake
-CWID: A20520501
-Hawk Email: kbhavake@hawk.iit.edu
-
-Name: Ravin N Krishnan
-CWID: A20529195
-Hawk Email: rnavaneethankrishnan@hawk.iit.edu
-```
+# Storage Manager
 
 ## How to run the code
 
